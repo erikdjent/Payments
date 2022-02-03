@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.mx.payments</groupId>
 	<artifactId>payments</artifactId>
-	<version>1.0</version>
+	<version>1.0.0</version>
 	<name>Payments</name>
 	<description>microservice</description>
 	<properties>
